@@ -7,17 +7,17 @@
 [Background ](#background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
-[Education ](#education) |
 [Experience ](#experience) |
+[Education ](#education) |
 [Interests and Awards](#personal)
 
 </div>
 
-## Background
+# Background
 
 I am a self-motivated, out of the box Software Engineer with excellent communication skills. I've spent the last 7 years working in music production. The bulk of that has been working at Abbey Road Studios. Already being tecnically minded I decided to dive into the world of coding head first! More and more I got the same creative buzz writing code (creating, refactoring) as I did writing and producing music (creating, editing). I learn fast and
 strive to have new challenges thrown at me.
-## Projects
+# Projects
 
 
 
@@ -26,27 +26,29 @@ strive to have new challenges thrown at me.
 | [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile for my Makers Academy final project. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 | [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Ruby, Rspec, Sinatra |
 | [Bank Technical Challenge](https://github.com/edcourage/Bank-Tech-Test-Ruby) | A simple Ruby REPL app. | Ruby, RSpec |
+| [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, Postgresql |
 
  For more projects visit my [Github](https://github.com/edcourage).
 
-## Skills
+# Skills
 
-### Logical Thinker
+#### Logical Thinker
 Due to my role at the studios being a technical one, I was constantly having to solve problems then determine the most effective way to tacle them in future.
 
-### Strong Communication Skills
+#### Strong Communication Skills
 
 
 
-### Creative Thinker
+#### Creative Thinker
 
 
 
-## Experience
+# Experience
 
 #### Transfer Engineer, Abbey Road Studios (_March 2014 - Sep. 2019_)
 
 I was part of the Post Production team at the Studios. My responsibilities range from transferring/restoring world-renowned original masters to Mastering and Editing on high profile commercial releases. Im constantly having to maintain and deliver the highest possible standard and that’s ingrained into everyone who's worked at the studios. It's an extremely varied and dynamic work environment, juggling many different projects at once. Daily I dealt with external clients directly, often working to tight deadlines so an elevated level of communication and prioritisation is critical.
+
 
 #### Abbey Road (Live Here Now) - Internship (_Nov. 2012 - Feb. 2013_)
 
@@ -54,7 +56,9 @@ I was primarily working on the Boyzone BZ20 Tour and the Wet Wet Wet Greatest Hi
 
 #### Freelance sound engineering work (_June 2013 - present_)
 
-##### Assistant Engineer (Live Recording)
+
+<details><summary> Highlights </summary>
+<p> 
 
 -	‘Paradise Lost’ at The Roundhouse, including post production work tuning vocals.
 -	‘Blue’ at Hammersmith Apollo.
@@ -70,19 +74,22 @@ I was primarily working on the Boyzone BZ20 Tour and the Wet Wet Wet Greatest Hi
 -	 Cornbury Festival
 -	 Organising and distributing stock at Abbey Road Studios
 
+<p>
+
+</details>
 
 
-## Education
+
+# Education
 
 #### Makers Academy (_Oct. 2019 - Nov. 2020_)
 
-A highly selective 4-months, full-time program
+A highly selective 4-months, full-time program.
 
 OOP, TDD, MVC, DDD
 Agile/XP
 Ruby, Rails, JavaScript
 RSpec, Jasmine
-Your University / College (start_date to end_date)
 
 #### Alchemea College (_Oct 2012 - June 2013_)
 ##### Studio Sound Engineering
@@ -101,7 +108,7 @@ Tutor referred to it as ‘the best project I’ve ever marked’
 
 
 
-## Personal interests and awards
+# Personal interests and awards
 
 - Outsdoors - Surfing, Skiing, Mountain Biking 
 - All thing creative - writing music, anything artistic, building stuff.                                
