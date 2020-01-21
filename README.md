@@ -9,7 +9,7 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Interests and Hobbies](#interests and hobbies)
+[Interests and Hobbies](#interests_and_hobbies)
 
 </div>
 
@@ -32,20 +32,22 @@ strive to have new challenges thrown at me.
 
 # Skills
 
-Technical
-
-#### Logical Thinker
-Due to my previous roles being technical ones, I was constantly having to solve problems then determine the most effective way to tackle them in future.
-
-#### Strong Communication Skills
-As a sound engineer, I was constantly working with others,  having strong communication skills was vital. Daily I dealt with external clients directly, often working to tight deadlines so an elevated level of communication and prioritisation is critical. More recently at Makers Academy, I was constantly pair-programming and working in teams using Agile concepts.  
-
-#### Creative
-I've always loved writing music and have spent a lot of time working on 
 
 
+**People** <br>
+As a sound engineer, I was usually working with others. A lot of the clients weren't technical and/or didn't always know precisely what they wanted.  I'd have to work with and guide the client to get the desired result.
 
+**Creative** <br>
+In music, I'm always looking for something different. May it be writing my own material or working on artists. I like to take a step back to find inspiration, experiment with ideas until bang!
 
+**Fast Learner** <br>
+At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
+
+**inquisitive** <br>
+I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can improve it.
+
+**Team Player** <br>
+I'm at my best working with others. At Makers, we where either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
 
 # Experience
 
@@ -65,7 +67,7 @@ I've always loved writing music and have spent a lot of time working on
 - **David Bowie** The World of David Bowie
 - **Status Quo** Rockin All Over The World
 - **Public Image Ltd.** The Public Image Is Rotten (Songs From The Heart)
-- **Metalic** Blackend Friday
+- **Metalic** Blackened Friday
 - **S Club 7** The Greatest Hits Of S Club 7 😬
 
 #### Abbey Road (Live Here Now) - Internship (_Nov. 2012 - Feb. 2013_)
