@@ -9,7 +9,7 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Interests and Hobbies ](#interests_and_hobbies)
+[Interests ](#interests)
 
 </div>
 
@@ -64,7 +64,7 @@ _Transfer Engineer_
 
 ##### Notable Projects
 
-- **The Beatles** _recent remix/remasters_: Abbey Road, White Album, Sqt Pepper and The Loney Heart Club Band
+- **The Beatles** _recent remix/remasters_: Abbey Road, White Album, Sqt Pepper and The Loney Heart Club
 - **David Bowie** The World of David Bowie
 - **Status Quo** Rockin All Over The World
 - **Public Image Ltd.** The Public Image Is Rotten (Songs From The Heart)
@@ -128,7 +128,7 @@ _Awarded the highest-ever mark for my post production module._
 
 
 
-## Interests and Hobbies
+## Interests
 
 - Outsdoors - Surfing, Skiing, Mountain Biking 
 - All thing creative - writing music, anything artistic, building stuff.                                
