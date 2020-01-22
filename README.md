@@ -64,7 +64,7 @@ _Transfer Engineer_
 
 ##### Notable Projects
 
-- **The Beatles** _recent remix/remasters_: Abbey Road, White Album, Sqt Pepper and The Loney Heart Club
+- **The Beatles** _recent remix/remasters_: Abbey Road, White Album, Sqt Pepper and The Loney Heart Club Band
 - **David Bowie** The World of David Bowie
 - **Status Quo** Rockin All Over The World
 - **Public Image Ltd.** The Public Image Is Rotten (Songs From The Heart)
