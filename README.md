@@ -9,7 +9,7 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Interests and Hobbies](#interests_and_hobbies)
+[Interests and Hobbies ](#interests_and_hobbies)
 
 </div>
 
@@ -30,7 +30,7 @@ strive to have new challenges thrown at me.
 
  For more projects visit my [Github](https://github.com/edcourage).
 
-# Skills
+## Skills
 
 
 
@@ -38,20 +38,21 @@ strive to have new challenges thrown at me.
 As a sound engineer, I was usually working with others. A lot of the clients weren't technical and/or didn't always know precisely what they wanted.  I'd have to work with and guide the client to get the desired result.
 
 **Creative** <br>
-In music, I'm always looking for something different. May it be writing my own material or working on artists. I like to take a step back to find inspiration, experiment with ideas until bang!
+In music, I'm always looking for something different. May it be writing my material or working on artists. I like to take a step back to find inspiration, experiment with new ideas until bang! This approach is the same when developing software, whether solving a problem or thinking of a new feature.
 
 **Fast Learner** <br>
 At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
 
 **inquisitive** <br>
-I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can improve it.
+I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it.
 
 **Team Player** <br>
-I'm at my best working with others. At Makers, we where either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
+I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
 
-# Experience
+## Experience
 
-#### Transfer Engineer, Abbey Road Studios (_March 2014 - Sep. 2019_)
+#### Abbey Road Studios (_March 2014 - Sep. 2019_)
+_Transfer Engineer_
 
 - Mastering and Editing high profile commercial releases.
 - Transferring and restoring world-renowned original masters.
@@ -70,7 +71,8 @@ I'm at my best working with others. At Makers, we where either pairing or workin
 - **Metalic** Blackened Friday
 - **S Club 7** The Greatest Hits Of S Club 7 😬
 
-#### Abbey Road (Live Here Now) - Internship (_Nov. 2012 - Feb. 2013_)
+#### Abbey Road (Live Here Now)(_Nov. 2012 - Feb. 2013_)
+_Internship_
 
 Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Greatest Hits Tour. 
 
@@ -99,7 +101,7 @@ Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Gre
 
 
 
-# Education
+## Education
 
 #### Makers Academy (_Oct. 2019 - Jan. 2020_)
 
@@ -126,7 +128,7 @@ _Awarded the highest-ever mark for my post production module._
 
 
 
-# Interests and Hobbies
+## Interests and Hobbies
 
 - Outsdoors - Surfing, Skiing, Mountain Biking 
 - All thing creative - writing music, anything artistic, building stuff.                                
