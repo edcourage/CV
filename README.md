@@ -44,7 +44,7 @@ In music, I'm always looking for something different. May it be writing my mater
 At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
 
 **Inquisitive** <br>
-I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it. I
+I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it.
 
 **Team Player** <br>
 I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
