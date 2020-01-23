@@ -13,7 +13,7 @@
 
 </div>
 
-I am a self-motivated, out of the box Full Stack Software Engineer with excellent communication skills. I've spent the last 7 years working in music production as a Sound Engineer. The bulk of that has been working at Abbey Road Studios. Already being technically minded I decided to dive into the world of coding head first! I get the same creative buzz writing code (creating, refactoring) as I do writing and producing music (creating, editing). I learn fast and
+I am a self-motivated, out of the box Full Stack Software Engineer with excellent communication skills. I've spent the last 7 years working in music production as a Sound Engineer. The bulk of that has been working as an engineer at Abbey Road Studios. Already being technically minded I decided to dive head-first into the world of coding! I get the same creative buzz writing code (creating, refactoring) as I do writing and producing music (creating, editing). I learn fast and
 strive to have new challenges thrown at me.
 
 # Projects
@@ -43,8 +43,8 @@ In music, I'm always looking for something different. May it be writing my mater
 **Fast Learner** <br>
 At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
 
-**inquisitive** <br>
-I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it.
+**Inquisitive** <br>
+I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it. I
 
 **Team Player** <br>
 I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
