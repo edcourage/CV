@@ -35,7 +35,7 @@ strive to have new challenges thrown at me.
 
 
 **People** <br>
-As a sound engineer, I was usually working with others. A lot of the clients weren't technical and/or didn't always know precisely what they wanted.  I'd have to work with and guide the client to get the desired result.
+As a sound engineer, I was usually working with others. A lot of the clients weren't technical and didn't always know precisely what they wanted. I'd have to work with and guide the client to get the desired result. At Makers, I have used these communication skills when working from non-technical user stories. I realise that a lot of clients don't need to know hows it made, they want to know how it behaves. When I presented our final project, I had to explain the behaviours of our app to a non-technical audience.
 
 **Creative** <br>
 In music, I'm always looking for something different. May it be writing my material or working on artists. I like to take a step back to find inspiration, experiment with new ideas until bang! This approach is the same when developing software, whether solving a problem or thinking of a new feature.
@@ -44,10 +44,10 @@ In music, I'm always looking for something different. May it be writing my mater
 At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
 
 **Inquisitive** <br>
-I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it. I
+I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it. When first experimenting API calls in the form of JS Promise's, I got the result using the 'then' function. It worked, but how?... After some reading and a little experimentation, I realised what was happening. A promises state will change from pending to either fulfilled or refected. If the state changes to fulfilled it will run the 'then' function and whatever you give it as an argument. If rejected, the promise will attempt and run the catch function and whatever you give it as an argument.
 
 **Team Player** <br>
-I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. 
+I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. When working on our final project (a pub crawl app) we were trying to implement a feature that allowed the user to share a google maps route using just the URL. As a group, we decided to save the object needed to generate the route to a MongoDB database. I thought the best way to solve this would be for the group of four to split into two. The first pair work on saving the new object to the database, the second on retrieving the stored object from the database. We implemented the new feature in a short time due to excellent teamwork and communication.
 
 ## Experience
 
