@@ -74,7 +74,7 @@ _Transfer Engineer_
 #### Abbey Road (Live Here Now)(_Nov. 2012 - Feb. 2013_)
 _Internship_
 
-Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Greatest Hits Tour. 
+Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Greatest Hits Tour.
 
 - Organising logistics.
 - Overseeing merchandise stands.
@@ -130,5 +130,5 @@ _Awarded the highest-ever mark for my post production module._
 
 ## Interests
 
-- Outsdoors - Surfing, Skiing, Mountain Biking 
+- Outsdoors - Surfing, Skiing, Mountain Biking
 - All thing creative - writing music, anything artistic, building stuff.                                
