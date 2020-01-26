@@ -35,7 +35,7 @@ strive to have new challenges thrown at me.
 
 
 **People** <br>
-As a sound engineer, I was usually working with others. A lot of the clients weren't technical and didn't always know precisely what they wanted. I'd have to work with and guide the client to get the desired result. At Makers, I have used these communication skills when working from non-technical user stories. I realise that a lot of clients don't need to know hows it made, they want to know how it behaves. When I presented our final project, I had to explain the behaviours of our app to a non-technical audience.
+As a sound engineer, I was usually working with others. A lot of the clients weren't technical and didn't always know precisely what they wanted. I'd have to work with and guide the client to get the desired result. At Makers, I have used these communication skills when working from non-technical user stories. I realise that a lot of clients don't need to know how it's made, they want to know how it behaves.
 
 **Creative** <br>
 In music, I'm always looking for something different. May it be writing my material or working on artists. I like to take a step back to find inspiration, experiment with new ideas until bang! This approach is the same when developing software, whether solving a problem or thinking of a new feature.
