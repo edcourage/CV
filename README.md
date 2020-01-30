@@ -56,11 +56,10 @@ _Transfer Engineer_
 
 - Mastering and Editing high profile commercial releases.
 - Transferring and restoring world-renowned original masters.
-- Varied and dynamic work environment.
 - Working with external clients directly.
-- Delivering the highest possible standard.
-- Varied and dynamic work environment.
-- Juggling multiple projects.
+- Delivering the highest possible standard of audio production.
+- Varied and dynamic work environment, juggling 
+multiple projects, often with tight deadlines.
 
 ##### Notable Projects
 
