@@ -78,7 +78,7 @@ Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Gre
 - Organising logistics.
 - Overseeing merchandise stands.
 - Assisting recording engineers.
-- Recruiting local sound engineering students to assit on show dates.
+- Recruiting local sound engineering students to assist on show dates.
 
 
 
