@@ -23,8 +23,8 @@ strive to have new challenges thrown at me.
 | Title       | Description           | Technologies  |
 |--|--|--|
 | [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
-| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multiple-choice quiz game. | Ruby, Javascript, Rspec, Sinatra, PostgreSQL |
-| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, Travis Ci  |
+| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multiple-choice quiz game. | Ruby, Javascript, jQuery, RSpec, Sinatra, PostgreSQL, DataMapper |
+| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, DataMapper, Travis Ci  |
 | [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 
 
