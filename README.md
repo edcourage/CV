@@ -13,8 +13,7 @@
 
 </div>
 
-I am a self-motivated, out of the box Full Stack Software Engineer with excellent communication skills. I've spent the last 7 years working in music production as a Sound Engineer. The bulk of that has been working as an engineer at Abbey Road Studios. Already being technically minded I decided to dive head-first into the world of coding! I get the same creative buzz writing code (creating, refactoring) as I do writing and producing music (creating, editing). I learn fast and
-strive to have new challenges thrown at me.
+I am a self-motivated, out of the box Full Stack Software Engineer with excellentcommunication skills. Having spent the last seven years working in music production as aSound Engineer, I decided to retrain as a Software Engineer to follow my passion forcoding. I find I get the same creative buzz writing code as I do when creating andproducing music, connecting people with useful data in an intuitive way. My previoustraining and interest in photography enable me to adapt and question existing structuresto design new apps and webpages that are appealing and easy to use.
 
 # Projects
 
@@ -23,44 +22,37 @@ strive to have new challenges thrown at me.
 | Title       | Description           | Technologies  |
 |--|--|--|
 | [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
-| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Ruby, Javascript, Rspec, Sinatra, PostgreSQL |
-| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, Travis Ci, Heroku,  |
+| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js,Mongoose, MongoDB, Jest,Enzyme, Cypress, Now,Travis Ci |
+| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL,DataMapper|
 | [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile for my Makers Academy final project. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 
 
- For more projects visit my [Github](https://github.com/edcourage).
+ For more projects visit my [GitHub](https://github.com/edcourage).
 
 ## Skills
 
 
 
-**People** <br>
-As a sound engineer, I was usually working with others. A lot of the clients weren't technical and didn't always know precisely what they wanted. I'd have to work with and guide the client to get the desired result. At Makers, I have used these communication skills when working from non-technical user stories. I realise that a lot of clients don't need to know hows it made, they want to know how it behaves. When I presented our final project, I had to explain the behaviours of our app to a non-technical audience.
+
 
 **Creative** <br>
-In music, I'm always looking for something different. May it be writing my material or working on artists. I like to take a step back to find inspiration, experiment with new ideas until bang! This approach is the same when developing software, whether solving a problem or thinking of a new feature.
+In music, I'm always looking for something different, whether it be composing my material or working on artists. I like to take a step back to find inspiration, experiment with new ideas until bang! This approach is the same when developing software, whether solving a problem or thinking of a new feature. A recent example is my Quizzical app. I had the problem of how to notify the user whether they got the answer to the question correct... I took a step back and found inspiration! Time to add some DOM JavaScript. Now when the user selects an answer, the button will change colour to either red or green, depending on the result—letting the user know if they got the question correct.
 
 **Fast Learner** <br>
 At Makers when we switched from Ruby to Javascript, I picked up the language very fast. I found I already knew the concepts so everything else was a short google away. This has been the case with other technologies. For our final project, we decided to use the React framework, Next.js. Although it was new, I could again relate to the concepts and quickly start to see its advantages.
 
 **Inquisitive** <br>
-I always want to visualise what my codes doing. It's not good enough something just working, I want to know how/why it's working, can I improve it. When first experimenting API calls in the form of JS Promise's, I got the result using the 'then' function. It worked, but how?... After some reading and a little experimentation, I realised what was happening. A promises state will change from pending to either fulfilled or refected. If the state changes to fulfilled it will run the 'then' function and whatever you give it as an argument. If rejected, the promise will attempt and run the catch function and whatever you give it as an argument.
+I always want to visualise what my code is doing. It's not good enough something just working; I want to know how/why it's working, can I improve it. When first experimenting API calls in the form of JS Promise's, I got the result using the 'then' function. It worked, but how?... After some reading and a little experimentation, I realised what was happening. A promises state will change from pending to either fulfilled or refected. If the state changes to fulfilled, it will run the 'then' function and whatever you give it as an argument. If rejected, the promise will attempt and run the catch function and whatever you give it as an argument.
 
 **Team Player** <br>
-I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. When working on our final project (a pub crawl app) we were trying to implement a feature that allowed the user to share a google maps route using just the URL. As a group, we decided to save the object needed to generate the route to a MongoDB database. I thought the best way to solve this would be for the group of four to split into two. The first pair work on saving the new object to the database, the second on retrieving the stored object from the database. We implemented the new feature in a short time due to excellent teamwork and communication.
+I'm at my best working with others. At Makers, we're either pairing or working in teams using Agile concepts. I'm always very clear about what I'm working on and enjoy working with others to solve complex problems. When working on our final project (a pub crawl app), we were trying to implement a feature that allowed the user to share a google maps route using just the URL. As a group, we decided to save the object needed to generate the route to a MongoDB database. I thought the best way to solve this would be for the group of four to split into two. The first pair worked on saving the new object to the database, the second on retrieving the stored object from the database. We implemented the new feature in a short time due to excellent teamwork and communication.
 
 ## Experience
 
 #### Abbey Road Studios (_March 2014 - Sep. 2019_)
 _Transfer Engineer_
 
-- Mastering and Editing high profile commercial releases.
-- Transferring and restoring world-renowned original masters.
-- Varied and dynamic work environment.
-- Working with external clients directly.
-- Delivering the highest possible standard.
-- Varied and dynamic work environment.
-- Juggling multiple projects.
+- Mastered and edited high profile commercial releases.- Transferred and restored world-renowned original masters.- Liaised with external clients directly, representing Abbey Road.- Delivering the highest possible standard of audio production.- Worked to tight deadlines, juggled multiple projects in avaried and dynamic work environment.
 
 ##### Notable Projects
 
@@ -76,14 +68,14 @@ _Internship_
 
 Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Greatest Hits Tour.
 
-- Organising logistics.
-- Overseeing merchandise stands.
-- Assisting recording engineers.
-- Recruiting local sound engineering students to assit on show dates.
+- Project management of logistics and merchandising.
+- Assisted recording engineers.
+- Managed and recruited soundengineering students for show dates.
 
 
 
-#### Freelance sound engineering work highlights (_June 2013 - present_)
+
+#### Freelance Sound Engineering Highlights (_June 2013 - present_)
 
 -	**Paradise Lost** at The Roundhouse, including post production work tuning vocals.
 -	**Blue** at Hammersmith Apollo.
@@ -113,22 +105,17 @@ Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Gre
 - RSpec, Jasmine
 
 
-#### Alchemea College (_Oct 2012 - June 2013_)
-##### Studio Sound Engineering
-- Diploma (NCFE Level 4 validated)
-- Grade: Distinction
-
-_Awarded the highest-ever mark for my post production module._
-
+#### Alchemea College (_Oct. 2012 - June 2013_)
 
 ##### Millfield School (2006 - 2011)
 
-- 3 A Levels
-- 7 GCSE (Including Math’s and English)
 
 
 
 ## Interests
 
-- Outsdoors - Surfing, Skiing, Mountain Biking
-- All thing creative - writing music, anything artistic, building stuff.                                
+- Surfing
+- Photography
+- Anything artistic
+- Skiing
+- Mountain Biking                              
