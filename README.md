@@ -60,10 +60,10 @@ _Transfer Engineer_
 - **David Bowie** The World of David Bowie
 - **Status Quo** Rockin All Over The World
 - **Public Image Ltd.** The Public Image Is Rotten (Songs From The Heart)
-- **Metalic** Blackened Friday
+- **Metallica** Blackened Friday
 - **S Club 7** The Greatest Hits Of S Club 7 😬
 
-#### Abbey Road (Live Here Now)(_Nov. 2012 - Feb. 2013_)
+#### Abbey Road (Live Here Now)(_Nov. 2013 - Feb. 2014_)
 _Internship_
 
 Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Greatest Hits Tour.
