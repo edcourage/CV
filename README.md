@@ -13,7 +13,13 @@
 
 </div>
 
-I am a self-motivated, out of the box Full Stack Software Engineer with excellentcommunication skills. Having spent the last seven years working in music production as aSound Engineer, I decided to retrain as a Software Engineer to follow my passion forcoding. I find I get the same creative buzz writing code as I do when creating andproducing music, connecting people with useful data in an intuitive way. My previoustraining and interest in photography enable me to adapt and question existing structuresto design new apps and webpages that are appealing and easy to use.
+I am a self-motivated, out of the box Full Stack Software Engineer with excellent
+communication skills. Having spent the last seven years working in music production as a
+Sound Engineer, I decided to retrain as a Software Engineer to follow my passion for
+coding. I find I get the same creative buzz writing code as I do when creating and
+producing music, connecting people with useful data in an intuitive way. My previous
+training and interest in photography enable me to adapt and question existing structures
+to design new apps and webpages that are appealing and easy to use.
 
 # Projects
 
@@ -22,8 +28,9 @@ I am a self-motivated, out of the box Full Stack Software Engineer with excellen
 | Title       | Description           | Technologies  |
 |--|--|--|
 | [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
-| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js,Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
-| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, DataMapper|
+| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
+| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL,
+ DataMapper|
 | [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile for my Makers Academy final project. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 
 
@@ -52,7 +59,12 @@ I'm at my best working with others. At Makers, we're either pairing or working i
 #### Abbey Road Studios (_March 2014 - Sep. 2019_)
 _Transfer Engineer_
 
-- Mastered and edited high profile commercial releases.- Transferred and restored world-renowned original masters.- Liaised with external clients directly, representing Abbey Road.- Delivering the highest possible standard of audio production.- Worked to tight deadlines, juggled multiple projects in avaried and dynamic work environment.
+- Mastered and edited high profile commercial releases.
+- Transferred and restored world-renowned original masters.
+- Liaised with external clients directly, representing Abbey Road.
+- Delivering the highest possible standard of audio production.
+- Worked to tight deadlines, juggled multiple projects in a
+varied and dynamic work environment.
 
 ##### Notable Projects
 
@@ -70,7 +82,8 @@ Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Gre
 
 - Project management of logistics and merchandising.
 - Assisted recording engineers.
-- Managed and recruited soundengineering students for show dates.
+- Managed and recruited sound
+engineering students for show dates.
 
 
 
