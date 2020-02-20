@@ -27,11 +27,10 @@ to design new apps and webpages that are appealing and easy to use.
 
 | Title       | Description           | Technologies  |
 |--|--|--|
-| [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
-| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
-| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL,
- DataMapper|
-| [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile for my Makers Academy final project. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
+| [SpaceBook](https://github.com/edcourage/SpaceBook) | A Facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
+| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multiple-choice quiz game. | Node.js, React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
+| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, DataMapper|
+| [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 
 
  For more projects visit my [GitHub](https://github.com/edcourage).
@@ -58,6 +57,8 @@ I'm at my best working with others. At Makers, we're either pairing or working i
 
 #### Abbey Road Studios (_March 2014 - Sep. 2019_)
 _Transfer Engineer_
+
+Working in the Post Production department with award-winning mastering engineers.
 
 - Mastered and edited high profile commercial releases.
 - Transferred and restored world-renowned original masters.
