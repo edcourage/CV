@@ -22,8 +22,8 @@ I am a self-motivated, out of the box Full Stack Software Engineer with excellen
 | Title       | Description           | Technologies  |
 |--|--|--|
 | [SpaceBook](https://github.com/edcourage/SpaceBook) | A facebook clone that allows you to post to a news feed. | Ruby On Rails, RSpec, PostgreSQL |
-| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js,Mongoose, MongoDB, Jest,Enzyme, Cypress, Now,Travis Ci |
-| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL,DataMapper|
+| [Quizzical](https://github.com/edcourage/Quizzical_quiz_app_sinatra) | A multipul choice quiz game. | Node.js, React, Next.js,Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
+| [Makers BnB](https://github.com/edcourage/makersbnb) | Bookings app based on AirBnB. | Ruby, RSpec, PostgreSQL, DataMapper|
 | [Crawl](https://github.com/edcourage/Crawl)  | A pub crawl generator website created for mobile for my Makers Academy final project. |  React, Next.js, Mongoose, MongoDB, Jest, Enzyme, Cypress, Now, Travis Ci |
 
 
@@ -107,7 +107,7 @@ Time on the road split between **Boyzone** BZ20 Tour and the **Wet Wet Wet** Gre
 
 #### Alchemea College (_Oct. 2012 - June 2013_)
 
-##### Millfield School (2006 - 2011)
+#### Millfield School (2006 - 2011)
 
 
 
